@@ -1,7 +1,7 @@
-# Hola 
-## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px" height="50px"></img> Sobre Mi
+# Hola <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px" height="50px"></img> 
 
-- :credit_card: Mi nombre es **Mónica Ixchel** <img src="https://github.com/user-attachments/assets/85bf8aa0-d362-4c81-a775-02153a2f6e4c" width="100" align="right"/>
+## Sobre Mi
+- :credit_card: Mi nombre es **Mónica Ixchel** <img src="https://github.com/user-attachments/assets/85bf8aa0-d362-4c81-a775-02153a2f6e4c" width="300" align="right"/>
 - :school: Recien graduada de la escuela **Tokio School**
 - :books: Especialidad **Programación Python**
 - :sweat_smile: Soy Desarrolladora Python nivel Junior :penguin:
@@ -20,7 +20,7 @@
 </p
   
 <p  align="center">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="25">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="25">
 </p>
 
 <p align="center">
@@ -39,7 +39,7 @@
 
 <p align="center">
  <a href="monicaixchell@gmail.com">
-  <img align="center" alt="MonicaIxchell | Gmail" width="26px" src="https://img.shields.io/badge/-monicaixchell@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:monicaixchell@gmail.com"/>
+  <img align="center" alt="MonicaIxchell | Gmail" width="60px" src="https://img.shields.io/badge/-monicaixchell@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:monicaixchell@gmail.com"/>
  </a> &nbsp;&nbsp;
 </p>
 

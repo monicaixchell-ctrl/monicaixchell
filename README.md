@@ -1,7 +1,7 @@
 # Hola <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px" height="50px"></img> 
 
 ## Sobre Mi
-- :credit_card: Mi nombre es **Mónica Ixchel** <img src="https://github.com/user-attachments/assets/85bf8aa0-d362-4c81-a775-02153a2f6e4c" width="300" align="right"/>
+- :credit_card: Mi nombre es **Mónica Ixchel** <img src="https://github.com/user-attachments/assets/85bf8aa0-d362-4c81-a775-02153a2f6e4c" width="200" align="right"/>
 - :school: Recien graduada de la escuela **Tokio School**
 - :books: Especialidad **Programación Python**
 - :sweat_smile: Soy Desarrolladora Python nivel Junior :penguin:
@@ -12,25 +12,21 @@
 <br>
 
 <p  align="center">
-<img src="https://img.shields.io/badge/jupyter-F3631D.svg?&style=for-the-badge&logo=jupyter&logoColor=white" height="25"/>
-</p>
-  
-<p  align="center">
-<img src="https://img.shields.io/badge/anaconda-42B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white" height="25"/> 
-</p
-  
-<p  align="center">
+  <img src="https://img.shields.io/badge/jupyter-F3631D.svg?&style=for-the-badge&logo=jupyter&logoColor=white" height="25"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/anaconda-42B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white" height="25"/> 
+  &nbsp;
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="25">
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/SQL-00000F?style=for-the-badge&logo=sql&logoColor=white" height="25">
-&nbsp;
-<img src="https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white" height="25">
-&nbsp;
-<img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" height="25">
-&nbsp;
-<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" height="25">
+  <img src="https://img.shields.io/badge/SQL-00000F?style=for-the-badge&logo=sql&logoColor=white" height="25">
+  &nbsp;
+  <img src="https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white" height="25">
+  &nbsp;
+  <img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" height="25">
+  &nbsp;
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" height="25">
 </p>
 
 <br>
@@ -39,7 +35,7 @@
 
 <p align="center">
  <a href="monicaixchell@gmail.com">
-  <img align="center" alt="MonicaIxchell | Gmail" width="60px" src="https://img.shields.io/badge/-monicaixchell@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:monicaixchell@gmail.com"/>
+  <img align="center" alt="MonicaIxchell | Gmail" width="80px" src="https://img.shields.io/badge/-monicaixchell@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:monicaixchell@gmail.com"/>
  </a> &nbsp;&nbsp;
 </p>
 
